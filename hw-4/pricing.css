@@ -1,0 +1,105 @@
+.pricing {
+    background-color:  #E5E5E5;
+}
+
+.section-title {
+    padding-top: 80px;
+    margin: 109px auto 0;
+    width: 409px;
+    font-family: Raleway;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    color: #212121; 
+    text-align: center; }
+
+.section-line {
+    margin: 34px auto 0;
+    width: 64px;
+    height: 2px;
+    border: 1px solid #D98943 }
+
+.section-text {
+   margin: 34px auto 0;
+   font-family: Open Sans;
+   font-size: 14px;
+   font-style: normal;
+   font-weight: 400;
+   color: #86878B;
+   text-align: center; }
+
+.flex-block   {
+   padding: 63px 112px 80px;
+   width: 1100px;
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+}
+
+.flex-block-item {
+  margin-right: 78px;  
+}
+
+.price-list-item-name {
+  padding-top: 15px;
+  width: 340px;
+  height: 50px;
+  background-color: #333333;
+  font-family: Open Sans;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 27px;
+  color: #FFFFFF;
+  text-align: center;
+
+}
+
+.price-list-item-coast {
+  padding-top: 25px;
+  background-color: #333333;
+  border-top: 2px solid #E5E5E5;
+  width: 340px;
+  height: 100px;
+  font-family: Raleway;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 41px;
+  color: #FFFFFF;
+  text-align: center;
+
+  
+}
+
+.price-list-item-time {
+    padding-top: 17px;
+    background-color: #333333;
+    border-top: 1px solid #E5E5E5;
+    width: 340px;
+    height: 50px;
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 19px;
+    color: #FFFFFF;
+    text-align: center;
+    
+}
+
+.price-list-item-size {
+    padding-top: 10px;
+    background-color: #FFFFFF;
+    border-top: 4px solid #E5E5E5;
+    width: 340px;
+    height: 40px;
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19px;
+    color: #86878B;
+    text-align: center;
+
+}

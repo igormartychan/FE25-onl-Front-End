@@ -1,0 +1,66 @@
+.section-title {
+    margin: 100px auto 0;
+    width: 409px;
+    font-family: Raleway;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    color: #212121;
+}
+
+.section-line {
+    margin: 25px auto 0;
+    width: 64px;
+    height: 2px;
+    border: 1px solid #D98943
+}
+
+.section-text {
+    margin: 30px auto 0;
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    color: #86878B;
+    text-align: center;
+}
+.about-row {
+    margin-top: 67px;
+    display: flex;
+}
+.about-cards {
+    width: 300px;
+    margin: 0 32px;
+   
+    
+}
+.about-cards-img {
+    margin: auto;
+    border: 1px solid #D98943;
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+}
+.about-cards-img img {
+    margin: auto;
+    display: block;
+    margin-top: 20px;
+}
+.about-cards-title {
+    width: 189px;
+    margin: 30px auto 0;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+}
+.about-cards-text {
+    width: 350px;
+    margin: 16px auto 0;
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+}
